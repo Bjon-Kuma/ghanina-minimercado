@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400"><rect width="400" height="400" fill="#fff"/><ellipse cx="200" cy="352" rx="110" ry="14" fill="#17241c" opacity=".07"/>
+  <path d="M110 70c30 10 150 10 180 0l-10 280c-30 10-130 10-160 0z" fill="#e2312d"/>
+  <path d="M110 70c30 10 150 10 180 0l-2 30c-30 10-146 10-176 0z" fill="#b21f1c"/>
+  <ellipse cx="200" cy="215" rx="70" ry="54" fill="#ffd23f"/>
+  <text x="200" y="222" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="24" fill="#b21f1c">CHIPS</text></svg>

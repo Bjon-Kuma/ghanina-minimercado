@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400"><rect width="400" height="400" fill="#fff"/><ellipse cx="200" cy="352" rx="110" ry="14" fill="#17241c" opacity=".07"/>
+  <rect x="178" y="40" width="44" height="26" rx="6" fill="#8f0b20"/>
+  <path d="M182 66h36v26c0 14 32 30 32 62v176a16 16 0 0 1-16 16h-68a16 16 0 0 1-16-16V154c0-32 32-48 32-62z" fill="#c8102e"/>
+  <rect x="150" y="190" width="100" height="70" fill="#fff"/>
+  <text x="200" y="232" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="20" fill="#c8102e">1.5 L</text>
+  <path d="M168 120c-10 14-14 30-14 50" stroke="#fff" stroke-opacity=".35" stroke-width="8" stroke-linecap="round" fill="none"/></svg>

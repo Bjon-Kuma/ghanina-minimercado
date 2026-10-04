@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400"><rect width="400" height="400" fill="#fff"/><ellipse cx="200" cy="352" rx="110" ry="14" fill="#17241c" opacity=".07"/>
+  <g transform="translate(130 150)"><rect width="68" height="92" rx="12" fill="#f3f6fb" stroke="#c8d3e3" stroke-width="3"/><circle cx="34" cy="14" r="8" fill="#c8d3e3"/></g><g transform="translate(202 150)"><rect width="68" height="92" rx="12" fill="#f3f6fb" stroke="#c8d3e3" stroke-width="3"/><circle cx="34" cy="14" r="8" fill="#c8d3e3"/></g><g transform="translate(130 246)"><rect width="68" height="92" rx="12" fill="#f3f6fb" stroke="#c8d3e3" stroke-width="3"/><circle cx="34" cy="14" r="8" fill="#c8d3e3"/></g><g transform="translate(202 246)"><rect width="68" height="92" rx="12" fill="#f3f6fb" stroke="#c8d3e3" stroke-width="3"/><circle cx="34" cy="14" r="8" fill="#c8d3e3"/></g>
+  <rect x="116" y="130" width="168" height="220" rx="16" fill="#5aa0e0" opacity=".18"/>
+  <rect x="140" y="214" width="120" height="40" rx="20" fill="#1f6fbf"/>
+  <text x="200" y="241" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="22" fill="#fff">x4</text></svg>

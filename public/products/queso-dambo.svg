@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400"><rect width="400" height="400" fill="#fff"/><ellipse cx="200" cy="352" rx="110" ry="14" fill="#17241c" opacity=".07"/>
+  <path d="M90 250l70-110h160l-50 110z" fill="#f2bf13"/>
+  <path d="M90 250h180v80H90z" fill="#ffd84d"/>
+  <path d="M270 250l50-110v80l-50 110z" fill="#f2bf13" opacity=".8"/>
+  <circle cx="130" cy="290" r="10" fill="#e8b800"/><circle cx="200" cy="305" r="7" fill="#e8b800"/><circle cx="240" cy="280" r="9" fill="#e8b800"/><circle cx="210" cy="200" r="10" fill="#e8b800"/>
+  <text x="200" y="380" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="22" fill="#56645b">por 100 g</text></svg>
